@@ -1,0 +1,17 @@
+.para{
+text-align: center;
+}
+body{
+  background-color: #BDF2D5;
+}
+.tb {
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid;
+   width: 50%;
+   text-align: center;
+}
+
+.div{
+  background: #BDF2D5;
+}
